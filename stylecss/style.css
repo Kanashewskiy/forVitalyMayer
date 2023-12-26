@@ -1,0 +1,24 @@
+
+.main{
+    width: 120px;
+    height: 1900px;
+    float: left;
+}
+
+.catalog{
+    width: 1350px;
+    float: left;
+}
+
+.fi{
+    width: 250px;
+    height: 350px;
+}
+.si{
+    width: 400px;
+    height: 250px;
+}
+.ti{
+    width: 350px;
+    height: 250px;
+}
